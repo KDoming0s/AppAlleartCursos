@@ -39,6 +39,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:background="@android:color/white"
+            android:onClick="clickEquipe"
             android:text="@string/strEquipe"
             android:textSize="18sp" />
 
@@ -48,6 +49,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:background="@android:color/white"
+            android:onClick="clickCursos"
             android:text="@string/strCursos"
             android:textSize="18sp" />
 
@@ -57,6 +59,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="3dp"
             android:background="@android:color/white"
+            android:onClick="clickMidia"
             android:text="@string/strMidia"
             android:textSize="18sp" />
 
